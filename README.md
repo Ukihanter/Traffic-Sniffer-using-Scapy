@@ -19,5 +19,8 @@ To install `scapy`, run the following command:
 
 ```bash
 pip install scapy
+
+```
+```bash
 git clone https://github.com/yourusername/traffic-sniffer.git
-````
+```
