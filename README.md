@@ -1,4 +1,4 @@
-# Traffic Sniffer with Scapy
+# 🚦 Traffic Sniffer with Scapy
 
 This project implements a traffic sniffer using the `scapy` library in Python. The sniffer captures network traffic and identifies key components such as:
 
