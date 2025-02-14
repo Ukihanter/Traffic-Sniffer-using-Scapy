@@ -23,7 +23,7 @@ pip install scapy
 ```
 clone
 ```bash
-[git clone https://github.com/yourusername/traffic-sniffer.git](https://github.com/Ukihanter/Traffic-Sniffer-using-Scapy)
+git clone (https://github.com/Ukihanter/Traffic-Sniffer-using-Scapy
 ```
 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
