@@ -21,6 +21,10 @@ To install `scapy`, run the following command:
 pip install scapy
 
 ```
+clone
 ```bash
 git clone https://github.com/yourusername/traffic-sniffer.git
 ```
+**License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
