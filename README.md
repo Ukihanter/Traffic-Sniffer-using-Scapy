@@ -1,2 +1,21 @@
-# Traffic-Sniffer-using-Scapy
-A Python-based traffic sniffer using the Scapy library that captures network packets and identifies the source and destination IP addresses, source and destination ports, and the protocol. Ideal for monitoring network traffic and analyzing data flow in real-time.
+# Traffic Sniffer with Scapy
+
+This project implements a traffic sniffer using the `scapy` library in Python. The sniffer captures network traffic and identifies key components such as:
+
+- **Source IP address**
+- **Source port**
+- **Destination IP address**
+- **Destination port**
+- **Protocol**
+
+## Requirements
+
+Before running the traffic sniffer, make sure to install the necessary dependencies:
+
+- Python 3.x
+- scapy
+
+To install `scapy`, run the following command:
+
+```bash
+pip install scapy
